@@ -19,6 +19,7 @@ public class GrappleGods : Game
     protected override void Initialize()
     {
         // TODO: Add your initialization logic here
+        Window.Title = "Grapple Gods";
 
         base.Initialize();
     }
